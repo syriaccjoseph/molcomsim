@@ -1,4 +1,0 @@
-Completed message: 1, at step: 119075
-Last message completed.
-Ending simulation: Last step: 119076
-All 1 messages completed.

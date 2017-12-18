@@ -687,6 +687,12 @@ OpenCover/
 # Azure Stream Analytics local run output 
 ASALocalRun/
 
+*Noise.txt
+collated.txt
+
+# Skipping a particular file or directory from ignore !database/test.lck
+
+
 
 
 
