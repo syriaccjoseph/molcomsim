@@ -4,6 +4,10 @@
  */
 import java.util.ArrayList;
 
+/**
+ * As far as I (Alex) can tell, feature 4 has already been implemented via this class.
+ * Unless I'm missing something, the instructions for feature 4 seem redundant.
+ */
 public class DecomposingCollisionHandler extends CollisionDecorator{
 	
 	public DecomposingCollisionHandler(CollisionHandler cH){
